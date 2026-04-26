@@ -1,9 +1,11 @@
-# Este es un coso de nathan
+# My first webpage
 
-**Por qué no se pone como titulo?**
-- LOL
-- Hola
-*Ah ya lo arreglé*
+**This is my first webpage.**
+It will include:
+
+- Images
+- Colors
+- Titles
 
 ## Preview
 
