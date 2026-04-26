@@ -9,4 +9,4 @@ It will include:
 
 ## Preview
 
-![Website Preview](https://cdn.hackclub.com/019dc881-ccc9-7084-b52a-acac23170a54/screenshot.png)
+![Website Preview](https://www.despertarsabiendo.com/wp-content/uploads/2023/07/Aristoteles-Estatua-Filosofia.png)
